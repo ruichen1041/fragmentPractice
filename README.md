@@ -24,6 +24,9 @@ The RulesFragment and AboutFragment screens both have a Play button that navigat
 
 When clicking the system Back button at the bottom of the screen on Rules page and About page, the app navigates back to the title Fragment, not to the rules Fragment or the about Fragment.
 
+
+Key feature showcase
+============================
 Title page
 ------------
 <img src="./demoFigure/showcase_titlePage.png" width="200">
