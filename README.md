@@ -30,8 +30,8 @@ Title page
 
 About page
 ------------
-![Alt text](./demoFigure/showcase_aboutPage.png?raw=true "Title")
+<img src="./demoFigure/showcase_aboutPage.png" width="200">
 
 Rules page
 ------------
-![Alt text](./demoFigure/showcase_rulesPage.png?raw=true "Title")
+<img src="./demoFigure/showcase_rulesPage.png" width="200">
