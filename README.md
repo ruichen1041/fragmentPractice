@@ -26,7 +26,7 @@ When clicking the system Back button at the bottom of the screen on Rules page a
 
 Title page
 ------------
-<img src="./demoFigure/showcase_titlePage.png" width="100" height="100">
+<img src="./demoFigure/showcase_titlePage.png" width="200">
 
 About page
 ------------
