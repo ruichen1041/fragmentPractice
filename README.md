@@ -22,6 +22,6 @@ When the user taps the Rules or About button, the app navigates to the RulesFrag
 
 The RulesFragment and AboutFragment screens both have a Play button that navigates to the GameFragment
 
-When clicking the system Back button at the bottom of the screen on Rules page and About page, the app should navigate back to the title Fragment, not to the rules Fragment or the about Fragment.
+When clicking the system Back button at the bottom of the screen on Rules page and About page, the app navigates back to the title Fragment, not to the rules Fragment or the about Fragment.
 
 
