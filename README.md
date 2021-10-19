@@ -26,7 +26,7 @@ When clicking the system Back button at the bottom of the screen on Rules page a
 
 Title page
 ------------
-![Alt text](./demoFigure/showcase_titlePage.png?raw=true "Title"| width=100)
+![Alt text](./demoFigure/showcase_titlePage.png?raw=true "Title" width="100")
 
 About page
 ------------
