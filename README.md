@@ -13,3 +13,15 @@ screens. Each screen is implemented as a fragment.
 The app navigates using buttons, the app bar, and a navigation drawer. Because
 students haven't yet learned about saving data or the Android lifecycle, the app
 tries to eliminate bugs caused by configuration changes.
+
+Implemented features
+------------
+
+The TitleFragment screen has a Rules and About button as shown below.
+When the user taps the Rules or About button, the app navigates to the RulesFragment or AboutFragment, as appropriate
+
+The RulesFragment and AboutFragment screens both have a Play button that navigates to the GameFragment
+
+When clicking the system Back button at the bottom of the screen on Rules page and About page, the app should navigate back to the title Fragment, not to the rules Fragment or the about Fragment.
+
+
