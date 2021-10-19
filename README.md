@@ -27,3 +27,11 @@ When clicking the system Back button at the bottom of the screen on Rules page a
 Title page
 ------------
 ![Alt text](./demoFigure/showcase_titlePage.png?raw=true "Title")
+
+About page
+------------
+![Alt text](./demoFigure/showcase_aboutPage.png?raw=true "Title")
+
+Rules page
+------------
+![Alt text](./demoFigure/showcase_rulesPage.png?raw=true "Title")
